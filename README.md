@@ -1,6 +1,9 @@
 # Notas:
 Programa de Node
 
+# Instalación:
+Una vez descargado el repositorio, ejecutar en la terminal ```npm install ```
+
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
